@@ -1,6 +1,10 @@
 # todo
 
-A new Flutter project.
+Aplicativo para de estudo do curso 'Criação de Apps Android e iOS com Flutter - Crie 16 Apps'.
+
+Aplicativo com a função de criar a lista tarefas, podendo fazer a remoção e a ordenação de itens feitos.
+
+Desenvolvido em: Flutter
 
 ## Getting Started
 
